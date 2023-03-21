@@ -1,0 +1,67 @@
+cachetools==5.2.0
+cellpose @ git+https://github.com/kevinjohncutler/cellpose@71b3b5593ba977e6d84ca67a4d4c2793a99f0b51
+certifi==2022.9.14
+charset-normalizer==2.1.1
+colour==0.1.5
+contourpy==1.0.5
+cycler==0.11.0
+darkdetect==0.7.1
+edt==2.3.0
+fastremap==1.13.3
+fonttools==4.37.2
+google-api-core==2.10.1
+google-auth==2.11.0
+google-cloud-core==2.3.2
+google-cloud-storage==2.5.0
+google-crc32c==1.5.0
+google-resumable-media==2.3.3
+googleapis-common-protos==1.56.4
+idna==3.4
+imagecodecs==2022.8.8
+imageio==2.21.3
+joblib==1.1.0
+kiwisolver==1.4.4
+llvmlite==0.39.1
+mahotas @ git+https://github.com/luispedro/mahotas@ba045e0dd9454662319c367cdc6535f87f826beb
+matplotlib==3.6.0
+mgen @ git+https://github.com/kevinjohncutler/mgen@011509a3b184a4efa97676932a502c636278ae5a
+natsort==8.2.0
+ncolor==1.1.2
+networkx==2.8.6
+numba==0.56.2
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1662888870462/work
+omnipose @ git+https://github.com/kevinjohncutler/omnipose.git@dab4ebcdbe50d3a5dc47657b8725b82a945fb6c6
+opencv-python==4.5.5.64
+packaging==21.3
+pbr==5.10.0
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1660385855509/work
+protobuf==4.21.6
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+Pygments==2.13.0
+pyparsing==3.0.9
+PyQt6==6.3.1
+PyQt6-Qt6==6.3.1
+PyQt6-sip==13.4.0
+pyqtdarktheme @ git+https://github.com/kevinjohncutler/pyqtdarktheme@873db702049049813666e1b6a369fb9deda6eb28
+pyqtgraph==0.12.4
+python-dateutil==2.8.2
+pytorch-ranger==0.1.1
+PyWavelets==1.4.0
+QtPy==2.2.0
+requests==2.28.1
+rsa==4.9
+scikit-image==0.19.3
+scikit-learn==1.1.2
+scipy==1.9.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+superqt==0.3.5
+threadpoolctl==3.1.0
+tifffile==2022.8.12
+torch==1.12.1
+torch-optimizer==0.3.0
+torchaudio==0.12.1
+torchvision==0.2.2
+tqdm==4.64.1
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1656706066251/work
+urllib3==1.26.12
